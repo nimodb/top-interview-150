@@ -334,7 +334,11 @@ Below is a categorized list of problems, along with their difficulty levels and 
     <tr>
         <td>#21 Merge Two Sorted Lists</td>
         <td>🟢 Easy</td>
-        <td></td>
+        <td>
+            ✅ Python
+            <br>
+            🔄 Rust
+        </td>
     </tr>
     <tr>
         <td>#25 Reverse Nodes in K-Group</td>
