@@ -332,7 +332,7 @@ Below is a categorized list of problems, along with their difficulty levels and 
         <td></td>
     </tr>
     <tr>
-        <td>#21 Merge Two Sorted Lists</td>
+        <td>[#21 Merge Two Sorted Lists](https://github.com/nimodb/top-interview-150/tree/main/linked-list/21-merge-two-stored-lists)</td>
         <td>🟢 Easy</td>
         <td>
             ✅ Python
