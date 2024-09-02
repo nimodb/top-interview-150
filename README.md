@@ -93,7 +93,10 @@ Below is a categorized list of problems, along with their difficulty levels and 
     <tr>
         <td>#121 Best Time to Buy and Sell Stock</td>
         <td>🟢 Easy</td>
-        <td></td>
+        <td>
+            ✅ Python
+            🔄 Rust
+        </td>
     </tr>
     <tr>
         <td>#122 Best Time to Buy and Sell Stock II</td>
