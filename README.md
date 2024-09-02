@@ -91,10 +91,11 @@ Below is a categorized list of problems, along with their difficulty levels and 
         <td></td>
     </tr>
     <tr>
-        <td>#121 Best Time to Buy and Sell Stock</td>
+        <td><a href='https://github.com/nimodb/top-interview-150/tree/main/array-string/121-best-time-to-buy-and-sell-stock'>#121 Best Time to Buy and Sell Stock</a></td>
         <td>🟢 Easy</td>
         <td>
             ✅ Python
+            <br>
             🔄 Rust
         </td>
     </tr>
