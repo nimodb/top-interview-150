@@ -36,6 +36,15 @@ Below is a categorized list of problems, along with their difficulty levels and 
         <td></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/nimodb/top-interview-150/tree/main/array-string/13-roman-to-integer">#13 Roman to Integer</a></td>
+        <td>🟢 Easy</td>
+        <td>
+            ✅ Python
+            <br>
+            🔄 Rust
+        </td>
+    </tr>
+    <tr>
         <td>#14 Longest Common Prefix</td>
         <td>🟢 Easy</td>
         <td></td>
