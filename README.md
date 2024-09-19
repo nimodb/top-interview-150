@@ -80,9 +80,13 @@ Below is a categorized list of problems, along with their difficulty levels and 
         <td></td>
     </tr>
     <tr>
-        <td>#58 Length of Last Word</td>
+        <td><a href="https://github.com/nimodb/top-interview-150/tree/main/array-string/58-length-of-last-word">#58 Length of Last Word</a></td>
         <td>🟢 Easy</td>
-        <td></td>
+        <td>
+            ✅ Python
+            <br>
+            🔄 Rust
+        </td>
     </tr>
     <tr>
         <td>#68 Text Justification</td>
