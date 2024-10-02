@@ -55,9 +55,13 @@ Below is a categorized list of problems, along with their difficulty levels and 
         <td></td>
     </tr>
     <tr>
-        <td>#27 Remove Element</td>
+        <td><a href="https://github.com/nimodb/top-interview-150/tree/main/array-string/27-remove-element">#27 Remove Element</a></td>
         <td>🟢 Easy</td>
-        <td></td>
+        <td>
+            ✅ Python
+            <br>
+            🔄 Rust
+        </td>
     </tr>
     <tr>
         <td>#28 Find the Index of the First Occurrence in a a String</td>
