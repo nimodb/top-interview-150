@@ -2,14 +2,14 @@ from typing import List
 
 
 class Solution:
-    def removeElement(self, nums: List[int], val: int) -> int:
+    def removeDuplicates(self, nums: List[int]) -> int:
         if not nums:
             return 0
 
         k = 0
         for i in range(len(nums)):
-            if nums[i] != val:
-                nums[k] = nums[i]
+            if nums[i] != nums[k]:
                 k += 1
+                nums[k] = nums[i]
 
-        return k
+        return k + 1

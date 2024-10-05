@@ -50,12 +50,24 @@ Below is a categorized list of problems, along with their difficulty levels and 
         <td></td>
     </tr>
     <tr>
-        <td>#26 Remove Duplicates from Sorted array</td>
+        <td>
+            <a href="https://github.com/nimodb/top-interview-150/tree/main/array-string/26-remove-duplicates-from-sorted-array">
+                #26 Remove Duplicates from Sorted array
+            </a>
+        </td>
         <td>🟢 Easy</td>
-        <td></td>
+        <td>
+            ✅ Python
+            <br>
+            🔄 Rust
+        </td>
     </tr>
     <tr>
-        <td><a href="https://github.com/nimodb/top-interview-150/tree/main/array-string/27-remove-element">#27 Remove Element</a></td>
+        <td>
+            <a href="https://github.com/nimodb/top-interview-150/tree/main/array-string/27-remove-element">
+                #27 Remove Element
+            </a>
+        </td>
         <td>🟢 Easy</td>
         <td>
             ✅ Python
