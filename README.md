@@ -41,7 +41,7 @@ Below is a categorized list of problems, along with their difficulty levels and 
         <td>
             ✅ Python
             <br>
-            🔄 Rust
+            ✅ Rust
         </td>
     </tr>
     <tr>
