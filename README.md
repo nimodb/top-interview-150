@@ -45,9 +45,17 @@ Below is a categorized list of problems, along with their difficulty levels and 
         </td>
     </tr>
     <tr>
-        <td>#14 Longest Common Prefix</td>
+        <td>
+            <a href="https://github.com/nimodb/top-interview-150/tree/main/array-string/14-longest-common-prefix">
+                #14 Longest Common Prefix
+            </a>
+        </td>
         <td>🟢 Easy</td>
-        <td></td>
+        <td>
+            ✅ Python
+            <br>
+            🔄 Rust
+        </td>
     </tr>
     <tr>
         <td>
