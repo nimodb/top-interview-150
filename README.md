@@ -124,8 +124,13 @@ Below is a categorized list of problems, along with their difficulty levels and 
     </tr>
     <tr>
         <td>#88 Merge Sorted Array</td>
+        <td><a href='https://github.com/nimodb/top-interview-150/tree/main/array-string/88-Merge-sorted-array'>#88 Merge Sorted Array</a></td>
         <td>🟢 Easy</td>
-        <td></td>
+        <td>
+            ✅ Python
+            <br>
+            ✅ Rust
+        </td>
     </tr>
     <tr>
         <td><a href='https://github.com/nimodb/top-interview-150/tree/main/array-string/121-best-time-to-buy-and-sell-stock'>#121 Best Time to Buy and Sell Stock</a></td>
