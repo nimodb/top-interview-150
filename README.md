@@ -84,9 +84,17 @@ Below is a categorized list of problems, along with their difficulty levels and 
         </td>
     </tr>
     <tr>
-        <td>#28 Find the Index of the First Occurrence in a a String</td>
+        <td>
+            <a href="https://github.com/nimodb/top-interview-150/tree/main/array-string/28-find-the-index-of-the-first-occurrance-in-a-string">
+                #28 Find the Index of the First Occurrence in a String
+            </a>
+        </td>
         <td>🟢 Easy</td>
-        <td></td>
+        <td>
+            ✅ Python
+            <br>
+            ✅ Rust
+        </td>
     </tr>
     <tr>
         <td>#42 Trapping Rain Water</td>
