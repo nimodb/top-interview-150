@@ -169,9 +169,13 @@ Below is a categorized list of problems, along with their difficulty levels and 
         <td></td>
     </tr>
     <tr>
-        <td>#169 Majority Element</td>
+        <td><a href='https://github.com/nimodb/top-interview-150/tree/main/array-string/169-majority-element'>#169 Majority Element</a></td>
         <td>🟢 Easy</td>
-        <td></td>
+        <td>
+            ✅ Python
+            <br>
+            ✅ Rust
+        </td>
     </tr>
     <tr>
         <td>#189 Rotate Array</td>
