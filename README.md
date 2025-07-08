@@ -126,9 +126,13 @@ Below is a categorized list of problems, along with their difficulty levels and 
         <td></td>
     </tr>
     <tr>
-        <td>#80 Remove Duplicates from Sorted array II</td>
+        <td><a href='https://github.com/nimodb/top-interview-150/tree/main/array-string/80-remove-duplicates-from-sorted-array-II'>#80 Remove Duplicates from Sorted Array II</a></td>
         <td>🟡 Medium</td>
-        <td></td>
+        <td>
+            ✅ Python
+            <br>
+            ✅ Rust
+        </td>
     </tr>
     <tr>
         <td><a href='https://github.com/nimodb/top-interview-150/tree/main/array-string/88-Merge-sorted-array'>#88 Merge Sorted Array</a></td>
