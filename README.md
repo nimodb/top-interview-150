@@ -182,9 +182,13 @@ Below is a categorized list of problems, along with their difficulty levels and 
         </td>
     </tr>
     <tr>
-        <td>#189 Rotate Array</td>
+        <td><a href='https://github.com/nimodb/top-interview-150/tree/main/array-string/189-rotate-array'>#189 Rotate Array</a></td>
         <td>🟡 Medium</td>
-        <td></td>
+        <td>
+            ✅ Python
+            <br>
+            ✅ Rust
+        </td>
     </tr>
     <tr>
         <td>#238 Product of Array Expect Self</td>
