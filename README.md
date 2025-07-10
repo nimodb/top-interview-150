@@ -23,13 +23,11 @@ Below is a categorized list of problems, along with their difficulty levels and 
         <td>Solved</td>
     </tr>
     <tr>
-        <td colspan="4" align="center"><strong>Array / String</strong> (0/23)</td>
+        <td colspan="4" align="center"><strong>Array / String</strong> (8/23)</td>
     </tr>
     <tr>
-        <td>#6 Zigzag Conversion</td>
-        <td>🟡 Medium</td>
-        <td></td>
         <td><a href='https://github.com/nimodb/top-interview-150/tree/main/linked-list/6-zigzag-conversion'>#6 Zigzag Conversion</a></td>
+        <td>🟡 Medium</td>
         <td>
             ✅ Python
             <br>
