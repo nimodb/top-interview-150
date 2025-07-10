@@ -29,6 +29,12 @@ Below is a categorized list of problems, along with their difficulty levels and 
         <td>#6 Zigzag Conversion</td>
         <td>🟡 Medium</td>
         <td></td>
+        <td><a href='https://github.com/nimodb/top-interview-150/tree/main/linked-list/6-zigzag-conversion'>#6 Zigzag Conversion</a></td>
+        <td>
+            ✅ Python
+            <br>
+            ✅ Rust
+        </td>
     </tr>
     <tr>
         <td>#12 Integer to Roman</td>
