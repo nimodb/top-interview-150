@@ -153,9 +153,13 @@ Below is a categorized list of problems, along with their difficulty levels and 
         </td>
     </tr>
     <tr>
-        <td>#122 Best Time to Buy and Sell Stock II</td>
+        <td><a href='https://github.com/nimodb/top-interview-150/tree/main/array-string/121-best-time-to-buy-and-sell-stock-II'>#122 Best Time to Buy and Sell Stock II</a></td>
         <td>🟡 Medium</td>
-        <td></td>
+        <td>
+            ✅ Python
+            <br>
+            ✅ Rust
+        </td>
     </tr>
     <tr>
         <td>#134 Gas Station</td>
